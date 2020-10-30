@@ -1,0 +1,2 @@
+# ExercicioException
+Exercicio de exerções 
